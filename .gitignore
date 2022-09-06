@@ -135,3 +135,4 @@ dmypy.json
 
 # images
 /src/images/*
+!/src/images/README.md
