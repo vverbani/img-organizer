@@ -1,4 +1,4 @@
-# AUTOMATE IMAGE ORGANIZER
+# AUTOMATED IMAGE ORGANIZER
 
 Tired of trying to organize a thousand pictures that are crammed into one singular folder? Yeah, me too.
 
@@ -13,6 +13,7 @@ Any non image gets moved to the `/other-items` folder.
 
 1. [Docker](https://www.docker.com/)
 2. Make sure to add the folder path where your images exist in the following variable: `INPUT_FOLDER_PATH`
+3. Make sure to add the folder path to where you want your automated images to end up in with the following variable: `OUTPUT_FOLDER_PATH`
 
 ## Usage
 
